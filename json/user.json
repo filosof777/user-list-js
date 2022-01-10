@@ -1,0 +1,80 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "George LTD"
+    },
+    {
+      "id": 2,
+      "name": "Janet LTD"
+    },
+    {
+      "id": 3,
+      "name": "Emma LTD"
+    },
+    {
+      "id": 4,
+      "name": "Eve LTD"
+    },
+    {
+      "id": 5,
+      "name": "Charles LTD"
+    },
+    {
+      "id": 6,
+      "name": "Tracey LTD"
+    }
+  ],
+  "phone": [
+    {
+      "id": 1,
+      "number": "98 654 3214"
+    },
+    {
+      "id": 2,
+      "number": "5897 54 1218 647"
+    },
+    {
+      "id": 3,
+      "number": "5648 512 3214"
+    },
+    {
+      "id": 4,
+      "number": "48 556 21742 54"
+    },
+    {
+      "id": 5,
+      "number": "123564 98745 54"
+    },
+    {
+      "id": 6,
+      "number": "5648 89 5645 231"
+    }
+  ],
+  "website": [
+    {
+      "id": 1,
+      "sites": "george.com"
+    },
+    {
+      "id": 2,
+      "sites": "janet.com"
+    },
+    {
+      "id": 3,
+      "sites": "emma.com"
+    },
+    {
+      "id": 4,
+      "sites": "eve.com"
+    },
+    {
+      "id": 5,
+      "sites": "charles.com"
+    },
+    {
+      "id": 6,
+      "sites": "tracey.uz"
+    }
+  ]
+}
